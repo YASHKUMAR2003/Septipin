@@ -1,4 +1,4 @@
-# Septipin is a comprehensive pregnancy monitoring and management solution that offers a range of features to support expectant mothers throughout their journey. With a focus on enhancing the pregnancy experience, Badhai provides numerous benefits:
+# Septipin is a comprehensive pregnancy monitoring and management solution that offers a range of features to support expectant mothers throughout their journey. With a focus on enhancing the pregnancy experience, Septipin provides numerous benefits:
 
 Septipin: Your One-Stop Shop for a Happy and Healthy Pregnancy
 Tracking Progress: Septipin features a pregnancy tracker that empowers expectant mothers to keep tabs on the progression of their pregnancy. It offers real-time information about the number of weeks, trimesters, and an estimated due date, ensuring that moms-to-be stay informed and prepared.
